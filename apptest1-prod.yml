@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: prod
+  application:
+    name: apptest1
+
+custom:
+  a: 2
+  b: 2
