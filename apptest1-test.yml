@@ -3,3 +3,8 @@ spring:
     active: test
   application:
     name: apptest1
+
+
+custom:
+  a: 1
+  b: 2
