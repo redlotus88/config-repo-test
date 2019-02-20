@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: test
+    active: test, ln1, ln1-test
   application:
     name: apptest1
 
