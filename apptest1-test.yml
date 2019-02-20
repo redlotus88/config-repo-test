@@ -1,9 +1,9 @@
 spring:
   profiles:
     active: test
+    include: in1, in2, in3
   application:
     name: apptest1
-
 
 custom:
   a: 1
